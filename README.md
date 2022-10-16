@@ -1,2 +1,3 @@
 # Estructuras-de-control_ICC
-Hola! Anexo algunos ejemplos de estructuras de control que hemos estado viendo en clases 
+¡Hola!
+Aquí tienes algunos ejemplos de estructuras de control que hemos estado viendo en clases para que puedas repasar :)
